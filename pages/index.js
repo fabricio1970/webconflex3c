@@ -1,6 +1,6 @@
 
 function Home() {
-return <div> olá mundo </div>
+return <div> olá mundo novo</div>
 
 }
 
